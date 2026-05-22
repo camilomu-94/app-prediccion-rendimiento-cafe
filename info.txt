@@ -1,0 +1,13 @@
+Para correrlo localmente:
+Abro un cmd en la carpeta donde tengo app.py ahí pego la línea:
+streamlit run app.py
+streamlit run app_tooltip_fixed.py
+streamlit run app_tooltip_v6_editor.py
+streamlit run app_tooltip_v7_mensajes_tecnicos.py
+streamlit run app_tooltip_v8_mock_ia.py
+streamlit run app_tooltip_v9_groq.py
+streamlit run app_tooltip_v11_groq_gemini.py
+Asegurarme de tener instalado streamlit
+
+setx GEMINI_API_KEY AIzaSyB6iX_qD1-Dd1e1qA4XqF8aYFeQe0N9RJ4
+setx GEMINI_API_KEY AIzaSyDPpl9Fxd_M0dDJb1uJ-Mmb0BcADWOxTgU
